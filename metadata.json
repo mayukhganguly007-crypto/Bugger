@@ -1,0 +1,5 @@
+{
+  "name": "Bugger",
+  "description": "An AI-powered security and QA suite that detects bugs, patches vulnerabilities, and prevents data leaks in real-time.",
+  "requestFramePermissions": []
+}
